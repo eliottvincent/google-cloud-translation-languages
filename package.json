@@ -1,0 +1,36 @@
+{
+  "version": "0.0.1",
+  "name": "google-cloud-translation-languages",
+  "description": "Maps supported languages by Google Cloud Translation",
+  "author": "Eliott Vincent <dev@eliottvincent.com>",
+  "main": "src/index.js",
+  "homepage": "https://github.com/eliottvincent/google-cloud-translation-languages",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eliottvincent/google-cloud-translation-languages"
+  },
+  "bugs": {
+    "url": "https://github.com/eliottvincent/google-cloud-translation-languages/issues"
+  },
+  "scripts": {
+    "bump_version": "node ./scripts/bump_version.js",
+    "release": "./scripts/release.sh",
+    "test": "nodeunit ./test/index.js",
+    "update": "node ./scripts/update.js"
+  },
+  "devDependencies": {
+    "nodeunit-x": "0.14.0"
+  },
+  "keywords": [
+    "google-cloud-translation",
+    "google-cloud",
+    "google",
+    "translation",
+    "language",
+    "languages",
+    "language-list",
+    "BCP 47",
+    "ISO 3166-1"
+  ],
+  "license": "MIT"
+}
