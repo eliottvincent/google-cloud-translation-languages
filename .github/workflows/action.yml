@@ -1,5 +1,7 @@
 name: Release
-on: push
+on:
+  schedule:
+    - cron: "25 9 */3 * *"
 jobs:
   release:
     name: Updates languages, releases a new version if needed
