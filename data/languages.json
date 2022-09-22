@@ -536,6 +536,10 @@
     "name": "Hebrew"
   },
   {
+    "language": "jv",
+    "name": "Javanese"
+  },
+  {
     "language": "zh-CN",
     "name": "Chinese (Simplified)"
   }
