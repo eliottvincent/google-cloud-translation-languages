@@ -18,7 +18,7 @@ var data = {
 
 /**
  * Checks whether a language is supported or not
- * @private
+ * @public
  * @param  {string}  code
  * @return {boolean} Whether the language is supported or not
  */
