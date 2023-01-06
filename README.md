@@ -1,6 +1,6 @@
 # Google Cloud Translation Languages
 
-[![Build Status](https://github.com/eliottvincent/google-cloud-translation-languages/actions/workflows/action.yml/badge.svg)](https://github.com/eliottvincent/google-cloud-translation-languages/actions) [![NPM](https://img.shields.io/npm/v/google-cloud-translation-languages.svg)](https://www.npmjs.com/package/google-cloud-translation-languages) [![Downloads](https://img.shields.io/npm/dt/google-cloud-translation-languages.svg)](https://www.npmjs.com/package/google-cloud-translation-languages)
+[![Build Status](https://github.com/eliottvincent/google-cloud-translation-languages/actions/workflows/action.yml/badge.svg)](https://github.com/eliottvincent/google-cloud-translation-languages/actions) [![Version](https://img.shields.io/npm/v/google-cloud-translation-languages.svg)](https://www.npmjs.com/package/google-cloud-translation-languages) [![Downloads](https://img.shields.io/npm/dt/google-cloud-translation-languages.svg)](https://www.npmjs.com/package/google-cloud-translation-languages)
 
 Maps the languages currently supported by operations of the Google Cloud Translation API. The data **auto-updates every 3 days**, if needed.
 
