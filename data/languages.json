@@ -4,10 +4,6 @@
     "name": "Afrikaans"
   },
   {
-    "language": "ak",
-    "name": "Akan"
-  },
-  {
     "language": "sq",
     "name": "Albanian"
   },
@@ -160,10 +156,6 @@
     "name": "German"
   },
   {
-    "language": "gom",
-    "name": "Goan Konkani"
-  },
-  {
     "language": "el",
     "name": "Greek"
   },
@@ -221,7 +213,7 @@
   },
   {
     "language": "ga",
-    "name": "Irish"
+    "name": "Irish Gaelic"
   },
   {
     "language": "it",
@@ -250,6 +242,10 @@
   {
     "language": "rw",
     "name": "Kinyarwanda"
+  },
+  {
+    "language": "gom",
+    "name": "Konkani"
   },
   {
     "language": "ko",
@@ -320,16 +316,16 @@
     "name": "Maltese"
   },
   {
-    "language": "mni-Mtei",
-    "name": "Manipuri (Meitei Mayek)"
-  },
-  {
     "language": "mi",
     "name": "Maori"
   },
   {
     "language": "mr",
     "name": "Marathi"
+  },
+  {
+    "language": "mni-Mtei",
+    "name": "Meiteilon (Manipuri)"
   },
   {
     "language": "lus",
@@ -490,6 +486,10 @@
   {
     "language": "tk",
     "name": "Turkmen"
+  },
+  {
+    "language": "ak",
+    "name": "Twi"
   },
   {
     "language": "uk",

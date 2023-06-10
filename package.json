@@ -1,6 +1,6 @@
 {
   "name": "google-cloud-translation-languages",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Maps supported languages by Google Cloud Translation",
   "author": "Eliott Vincent <dev@eliottvincent.com>",
   "main": "src/index.js",
