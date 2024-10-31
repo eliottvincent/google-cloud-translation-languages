@@ -12,10 +12,6 @@
     "name": "Acholi"
   },
   {
-    "language": "aa",
-    "name": "Afar"
-  },
-  {
     "language": "af",
     "name": "Afrikaans"
   },
@@ -44,10 +40,6 @@
     "name": "Assamese"
   },
   {
-    "language": "av",
-    "name": "Avar"
-  },
-  {
     "language": "awa",
     "name": "Awadhi"
   },
@@ -64,16 +56,8 @@
     "name": "Balinese"
   },
   {
-    "language": "bal",
-    "name": "Baluchi"
-  },
-  {
     "language": "bm",
     "name": "Bambara"
-  },
-  {
-    "language": "bci",
-    "name": "Baoulé"
   },
   {
     "language": "ba",
@@ -148,14 +132,6 @@
     "name": "Cebuano"
   },
   {
-    "language": "ch",
-    "name": "Chamorro"
-  },
-  {
-    "language": "ce",
-    "name": "Chechen"
-  },
-  {
     "language": "ny",
     "name": "Chichewa"
   },
@@ -166,10 +142,6 @@
   {
     "language": "zh-TW",
     "name": "Chinese (Traditional)"
-  },
-  {
-    "language": "chk",
-    "name": "Chuukese"
   },
   {
     "language": "cv",
@@ -196,10 +168,6 @@
     "name": "Danish"
   },
   {
-    "language": "fa-AF",
-    "name": "Dari"
-  },
-  {
     "language": "din",
     "name": "Dinka"
   },
@@ -218,10 +186,6 @@
   {
     "language": "nl",
     "name": "Dutch"
-  },
-  {
-    "language": "dyu",
-    "name": "Dyula"
   },
   {
     "language": "dz",
@@ -244,10 +208,6 @@
     "name": "Ewe"
   },
   {
-    "language": "fo",
-    "name": "Faroese"
-  },
-  {
     "language": "fj",
     "name": "Fijian"
   },
@@ -260,20 +220,12 @@
     "name": "Finnish"
   },
   {
-    "language": "fon",
-    "name": "Fon"
-  },
-  {
     "language": "fr",
     "name": "French"
   },
   {
     "language": "fy",
     "name": "Frisian"
-  },
-  {
-    "language": "fur",
-    "name": "Friulian"
   },
   {
     "language": "ff",
@@ -352,10 +304,6 @@
     "name": "Hunsrik"
   },
   {
-    "language": "iba",
-    "name": "Iban"
-  },
-  {
     "language": "is",
     "name": "Icelandic"
   },
@@ -380,10 +328,6 @@
     "name": "Italian"
   },
   {
-    "language": "jam",
-    "name": "Jamaican Patois"
-  },
-  {
     "language": "ja",
     "name": "Japanese"
   },
@@ -392,20 +336,8 @@
     "name": "Javanese"
   },
   {
-    "language": "kac",
-    "name": "Jingpo"
-  },
-  {
-    "language": "kl",
-    "name": "Kalaallisut"
-  },
-  {
     "language": "kn",
     "name": "Kannada"
-  },
-  {
-    "language": "kr",
-    "name": "Kanuri"
   },
   {
     "language": "pam",
@@ -416,10 +348,6 @@
     "name": "Kazakh"
   },
   {
-    "language": "kha",
-    "name": "Khasi"
-  },
-  {
     "language": "km",
     "name": "Khmer"
   },
@@ -428,24 +356,12 @@
     "name": "Kiga"
   },
   {
-    "language": "kg",
-    "name": "Kikongo"
-  },
-  {
     "language": "rw",
     "name": "Kinyarwanda"
   },
   {
     "language": "ktu",
     "name": "Kituba"
-  },
-  {
-    "language": "trp",
-    "name": "Kokborok"
-  },
-  {
-    "language": "kv",
-    "name": "Komi"
   },
   {
     "language": "gom",
@@ -520,10 +436,6 @@
     "name": "Macedonian"
   },
   {
-    "language": "mad",
-    "name": "Madurese"
-  },
-  {
     "language": "mai",
     "name": "Maithili"
   },
@@ -552,32 +464,12 @@
     "name": "Maltese"
   },
   {
-    "language": "mam",
-    "name": "Mam"
-  },
-  {
-    "language": "gv",
-    "name": "Manx"
-  },
-  {
     "language": "mi",
     "name": "Maori"
   },
   {
     "language": "mr",
     "name": "Marathi"
-  },
-  {
-    "language": "mh",
-    "name": "Marshallese"
-  },
-  {
-    "language": "mwr",
-    "name": "Marwadi"
-  },
-  {
-    "language": "mfe",
-    "name": "Mauritian Creole"
   },
   {
     "language": "chm",
@@ -604,14 +496,6 @@
     "name": "Myanmar (Burmese)"
   },
   {
-    "language": "nhe",
-    "name": "Nahuatl (Eastern Huasteca)"
-  },
-  {
-    "language": "ndc-ZW",
-    "name": "Ndau"
-  },
-  {
     "language": "nr",
     "name": "Ndebele (South)"
   },
@@ -622,10 +506,6 @@
   {
     "language": "ne",
     "name": "Nepali"
-  },
-  {
-    "language": "bm-Nkoo",
-    "name": "NKo"
   },
   {
     "language": "nso",
@@ -652,10 +532,6 @@
     "name": "Oromo"
   },
   {
-    "language": "os",
-    "name": "Ossetian"
-  },
-  {
     "language": "pag",
     "name": "Pangasinan"
   },
@@ -680,20 +556,12 @@
     "name": "Portuguese"
   },
   {
-    "language": "pt-PT",
-    "name": "Portuguese (Portugal)"
-  },
-  {
     "language": "pa",
     "name": "Punjabi"
   },
   {
     "language": "pa-Arab",
     "name": "Punjabi (Shahmukhi)"
-  },
-  {
-    "language": "kek",
-    "name": "Q'eqchi'"
   },
   {
     "language": "qu",
@@ -716,10 +584,6 @@
     "name": "Russian"
   },
   {
-    "language": "se",
-    "name": "Sami (North)"
-  },
-  {
     "language": "sm",
     "name": "Samoan"
   },
@@ -730,10 +594,6 @@
   {
     "language": "sa",
     "name": "Sanskrit"
-  },
-  {
-    "language": "sat-Latn",
-    "name": "Santali"
   },
   {
     "language": "gd",
@@ -796,10 +656,6 @@
     "name": "Sundanese"
   },
   {
-    "language": "sus",
-    "name": "Susu"
-  },
-  {
     "language": "sw",
     "name": "Swahili"
   },
@@ -812,20 +668,8 @@
     "name": "Swedish"
   },
   {
-    "language": "ty",
-    "name": "Tahitian"
-  },
-  {
     "language": "tg",
     "name": "Tajik"
-  },
-  {
-    "language": "ber-Latn",
-    "name": "Tamazight"
-  },
-  {
-    "language": "ber",
-    "name": "Tamazight (Tifinagh)"
   },
   {
     "language": "ta",
@@ -848,24 +692,8 @@
     "name": "Thai"
   },
   {
-    "language": "bo",
-    "name": "Tibetan"
-  },
-  {
     "language": "ti",
     "name": "Tigrinya"
-  },
-  {
-    "language": "tiv",
-    "name": "Tiv"
-  },
-  {
-    "language": "tpi",
-    "name": "Tok Pisin"
-  },
-  {
-    "language": "to",
-    "name": "Tongan"
   },
   {
     "language": "ts",
@@ -876,14 +704,6 @@
     "name": "Tswana"
   },
   {
-    "language": "tcy",
-    "name": "Tulu"
-  },
-  {
-    "language": "tum",
-    "name": "Tumbuka"
-  },
-  {
     "language": "tr",
     "name": "Turkish"
   },
@@ -892,16 +712,8 @@
     "name": "Turkmen"
   },
   {
-    "language": "tyv",
-    "name": "Tuvan"
-  },
-  {
     "language": "ak",
     "name": "Twi"
-  },
-  {
-    "language": "udm",
-    "name": "Udmurt"
   },
   {
     "language": "uk",
@@ -920,36 +732,16 @@
     "name": "Uzbek"
   },
   {
-    "language": "ve",
-    "name": "Venda"
-  },
-  {
-    "language": "vec",
-    "name": "Venetian"
-  },
-  {
     "language": "vi",
     "name": "Vietnamese"
-  },
-  {
-    "language": "war",
-    "name": "Waray"
   },
   {
     "language": "cy",
     "name": "Welsh"
   },
   {
-    "language": "wo",
-    "name": "Wolof"
-  },
-  {
     "language": "xh",
     "name": "Xhosa"
-  },
-  {
-    "language": "sah",
-    "name": "Yakut"
   },
   {
     "language": "yi",
@@ -962,10 +754,6 @@
   {
     "language": "yua",
     "name": "Yucatec Maya"
-  },
-  {
-    "language": "zap",
-    "name": "Zapotec"
   },
   {
     "language": "zu",
