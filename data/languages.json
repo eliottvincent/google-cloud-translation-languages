@@ -168,12 +168,12 @@
     "name": "Danish"
   },
   {
-    "language": "din",
-    "name": "Dinka"
+    "language": "dv",
+    "name": "Dhivehi"
   },
   {
-    "language": "dv",
-    "name": "Divehi"
+    "language": "din",
+    "name": "Dinka"
   },
   {
     "language": "doi",
@@ -229,7 +229,7 @@
   },
   {
     "language": "ff",
-    "name": "Fulfulde"
+    "name": "Fulani"
   },
   {
     "language": "gaa",
@@ -238,10 +238,6 @@
   {
     "language": "gl",
     "name": "Galician"
-  },
-  {
-    "language": "lg",
-    "name": "Ganda"
   },
   {
     "language": "ka",
@@ -313,7 +309,7 @@
   },
   {
     "language": "ilo",
-    "name": "Iloko"
+    "name": "Ilocano"
   },
   {
     "language": "id",
@@ -321,7 +317,7 @@
   },
   {
     "language": "ga",
-    "name": "Irish Gaelic"
+    "name": "Irish"
   },
   {
     "language": "it",
@@ -409,7 +405,7 @@
   },
   {
     "language": "li",
-    "name": "Limburgan"
+    "name": "Limburgish"
   },
   {
     "language": "ln",
@@ -422,6 +418,10 @@
   {
     "language": "lmo",
     "name": "Lombard"
+  },
+  {
+    "language": "lg",
+    "name": "Luganda"
   },
   {
     "language": "luo",
@@ -508,10 +508,6 @@
     "name": "Nepali"
   },
   {
-    "language": "nso",
-    "name": "Northern Sotho"
-  },
-  {
     "language": "no",
     "name": "Norwegian"
   },
@@ -553,11 +549,11 @@
   },
   {
     "language": "pt",
-    "name": "Portuguese"
+    "name": "Portuguese (Brazil)"
   },
   {
     "language": "pa",
-    "name": "Punjabi"
+    "name": "Punjabi (Gurmukhi)"
   },
   {
     "language": "pa-Arab",
@@ -598,6 +594,10 @@
   {
     "language": "gd",
     "name": "Scots Gaelic"
+  },
+  {
+    "language": "nso",
+    "name": "Sepedi"
   },
   {
     "language": "sr",
