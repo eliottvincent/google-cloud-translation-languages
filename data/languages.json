@@ -224,10 +224,6 @@
     "name": "French"
   },
   {
-    "language": "fr-CA",
-    "name": "French (Canada)"
-  },
-  {
     "language": "fy",
     "name": "Frisian"
   },
@@ -554,10 +550,6 @@
   {
     "language": "pt",
     "name": "Portuguese (Brazil)"
-  },
-  {
-    "language": "pt-PT",
-    "name": "Portuguese (Portugal)"
   },
   {
     "language": "pa",
