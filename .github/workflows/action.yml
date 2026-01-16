@@ -54,5 +54,3 @@ jobs:
         if: ${{ steps.update.outputs.status == 'updated' }}
         run: |
           npm publish
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
